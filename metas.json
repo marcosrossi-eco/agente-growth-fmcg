@@ -1,0 +1,19 @@
+{
+  "unit": {
+    "preco_venda": 5.99,
+    "custo_unitario": 2.6,
+    "preco_caixa": 49.9,
+    "unidades_por_caixa": 10
+  },
+  "investimento": {
+    "orcamento_mensal": 6000,
+    "foco": "misto",
+    "unidades_por_cliente": 1.5
+  },
+  "meses": [
+    { "mes": 1, "unidades": 4000, "cac_max": 15.0, "recompra30": 0.10, "pontos_venda": 15, "nps_meta": 50, "csat_meta": 4.5 },
+    { "mes": 2, "unidades": 8000, "cac_max": 13.0, "recompra30": 0.18, "pontos_venda": 35, "nps_meta": 50, "csat_meta": 4.5 },
+    { "mes": 3, "unidades": 12000, "cac_max": 12.0, "recompra30": 0.25, "pontos_venda": 60, "nps_meta": 50, "csat_meta": 4.5 }
+  ],
+  "resultados": {}
+}

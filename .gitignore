@@ -1,0 +1,4 @@
+.env
+entregaveis/
+__pycache__/
+*.pyc
